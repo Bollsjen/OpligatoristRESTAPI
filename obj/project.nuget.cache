@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMJ+rAjlz4wKnpLTqrR910zeUG/z94MaQFUk5K6PK6Z7dyqlh5gaptPdpd8YeM8h+d7HLdmU0ZS+pRsI5TrlWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magnu\\OneDrive - Zealand Sjællands Erhvervsakademi\\3. Semester\\OpligatoriskeOpgaver\\ObligatoriskOpgave\\OpligatoristRESTAPI\\OpligatoristRESTAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magnu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
